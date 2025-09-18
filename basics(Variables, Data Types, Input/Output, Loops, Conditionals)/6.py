@@ -1,0 +1,1 @@
+# Q6. Convert temperature from Celsius to Fahrenheit.
